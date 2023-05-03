@@ -29,10 +29,10 @@ https://e-cont.md/en
   
 <h2 align="center"><a href="https://e-cont.md/en/integrations" target="_blank">Docs.e-Cont.md</h2>
 <ul>
-<li><h3 align="center"><a href="https://docs.e-cont.md/en/user" target="_blank">User Guide</h3></li>
-<li><h3 align="center"><a href="https://docs.e-cont.md/en/quick-start" target="_blank">Quick Start</h3></li>  
-<li><h3 align="center"><a href="https://docs.e-cont.md/en/user" target="_blank">Developer Guide</h3></li>
-<li><h3 align="center"><a href="https://docs.e-cont.md/en/api" target="_blank">API reference</h3></li>
-  <li><h3 align="center"><a href="https://docs.e-cont.md/en/downloads" target="_blank">Downloads</h3></li>
+<li><h3><a href="https://docs.e-cont.md/en/user" target="_blank">User Guide</h3></li>
+<li><h3><a href="https://docs.e-cont.md/en/quick-start" target="_blank">Quick Start</h3></li>  
+<li><h3><a href="https://docs.e-cont.md/en/user" target="_blank">Developer Guide</h3></li>
+<li><h3><a href="https://docs.e-cont.md/en/api" target="_blank">API reference</h3></li>
+<li><h3 align="center"><a href="https://docs.e-cont.md/en/downloads" target="_blank">Downloads</h3></li>
   </ul>
   
