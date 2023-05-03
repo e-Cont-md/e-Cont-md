@@ -14,18 +14,19 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-<h1 align="center"><a href="https://e-cont.md" target="_blank">e-Cont.md service</a></h1>
+<h1 align="center"><a href="https://e-cont.md/en" target="_blank">e-Cont.md service</a></h1>
 <h3>Issuance and circulation of e-invoices for payment for business in Moldova (B2B and B2C). </h3>
 The service allows you to issue professional invoices, send them to your clients, send payment reminders, track expenses and receive payment from clients faster and on time.
-https://e-cont.md/en
 
 <h2 align="center"><a href="https://e-cont.md/en/integrations" target="_blank">Integration with External Systems</h2>
-- Accounting system - 1C:8
-  Documents are easily and quickly received from the 1C program into e-Cont.md
-- Online stores (CMS): Woocomemrce, Prestashop, osCommerce and OpenCart
-- Customer Relationship Management (CRM): Bitrix24, AmoCRM
-- e-Invoicing systems: Zoho Invoice
-- Google Drive
+  <ul>
+    <li><h3>Accounting system - 1C:8<br>
+      Documents are easily and quickly received from the 1C program into e-Cont.md</li>
+    <li>Online stores (CMS): Woocomemrce, Prestashop, osCommerce and OpenCart;</li>
+    <li>Customer Relationship Management (CRM): Bitrix24, AmoCRM</li>
+    <li>e-Invoicing systems: Zoho Invoice</li>
+    <li>Google Drive</li>
+  </ul>
   
 <h2 align="center"><a href="https://e-cont.md/en/integrations" target="_blank">Docs.e-Cont.md</h2>
 <ul>
