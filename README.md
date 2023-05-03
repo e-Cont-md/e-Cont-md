@@ -16,3 +16,11 @@ Here are some ideas to get you started:
 -->
 
 Issuance and circulation of e-invoices for payment for business in Moldova (B2B and B2C). The service allows you to issue professional invoices, send them to your clients, send payment reminders, track expenses and receive payment from clients faster and on time.
+
+Integration with External Systems
+- Accounting system - 1C:8
+  Documents are easily and quickly received from the 1C program into e-Cont.md
+- Online stores (CMS): Woocomemrce, Prestashop, osCommerce and OpenCart
+- Customer Relationship Management (CRM): Bitrix24, AmoCRM
+- e-Invoicing systems: Zoho Invoice
+- Google Drive
